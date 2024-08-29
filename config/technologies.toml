@@ -1,0 +1,22 @@
+############### Section config ##################
+#################################################
+title = "Tech Stack"
+enabled = true # false
+
+############### Technologies ####################
+#################################################
+# Technology I have worked with
+# name = "./.../../icon_path"
+[technologies]
+html = "./config/assets/icons/html.svg"
+css = "./config/assets/icons/flutter.svg"
+php = "./config/assets/icons/git.svg"
+javascript = "./config/assets/icons/figma.svg"
+laravel = "./config/assets/icons/firebase.svg"
+c++ = "./config/assets/icons/pandas.svg"
+tailwind = "./config/assets/icons/mongodb.svg"
+git = "./config/assets/icons/dart.svg"
+github = "./config/assets/icons/html.svg"
+mysql = "./config/assets/icons/ai.svg"
+figma = "./config/assets/icons/jupyter.svg"
+elementor = "./config/assets/icons/linux.svg"
